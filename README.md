@@ -1,7 +1,7 @@
 ## Olá, Prazer eu sou o Henry Jack
 
   - 🔭 Atualmente estou procurando uma vaga no mercado.
-  - 👻 Estudante de Engenharia da Computação
+  - 👻 Estudante de Programação
   - 🤓 Estudando Desenvolvimento Mobile 
   <div align="center">
   <a href="https://github.com/jackk-Dev">
